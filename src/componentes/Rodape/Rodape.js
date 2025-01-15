@@ -20,14 +20,7 @@ const Rodape = () => {
                             <a href="instagram.com" target="blank">
                                 <img src="/imagens/ig.png" alt="instagran" />
                             </a>
-
-                            <li>
-                                <a href="https://github.com/AgnaldoSouza47" target="blank">
-                                    <img src="/imagens/github.png" alt="github" />
-                                </a>
-
-                            </li>
-                        </li>
+                         </li>
                     </li>
                 </ul>
             </section>
