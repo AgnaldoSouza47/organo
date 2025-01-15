@@ -1,25 +1,29 @@
 .footer {
-    bottom: 0 ;
+    bottom: 0;
     background: #6278f7;
     color: #FFF;
-    padding: 80px;
+    padding: 4px 4px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-
+    flex-wrap: wrap;
+    max-width: 100%;
 }
 
-.footer ul li a {
-    border-bottom: #6278f7;
-    display:inline-block ;
+.footer ul li {
+    display: inline-block;
     margin-right: 32px;
-    
+    border-bottom: #6278f7;
+    margin-inline-start: 1;
+    display: block;
 }
 
-.footer ul li a:last-child {
-   
-       margin-right: 0;
+.footer ul li:last-child {
+    margin-right: 0;
+}
 
+.footer section p {
+
+    padding-right: 26px;
 }
 
