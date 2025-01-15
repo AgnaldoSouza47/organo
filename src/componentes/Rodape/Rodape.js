@@ -36,7 +36,7 @@ const Rodape = () => {
             </section>
             <section>
                 <p>
-                    &copy; Desenvolvido por Agnaldo Souza, aprendiz na Alura
+                    &copy; Desenvolvido por Agnaldo Souza
                 </p>
             </section>
         </footer>
