@@ -28,9 +28,9 @@ const Rodape = () => {
                 <img src="/imagens/logo.png" alt="" />
             </section>
             <section>
-                <p>
-                    &copy; Desenvolvido por Agnaldo Souza
-                </p>
+              <p>
+               <small> &copy; Desenvolvido por Agnaldo Souza </small>
+            </p>
             </section>
         </footer>
     )
