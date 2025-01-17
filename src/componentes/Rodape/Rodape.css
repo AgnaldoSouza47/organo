@@ -2,7 +2,7 @@
     bottom: 0;
     background: #6278f7;
     color: #FFF;
-    padding: 4px 4px;
+    padding: 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -22,8 +22,5 @@
     margin-right: 0;
 }
 
-.footer section p {
 
-    padding-right: 26px;
-}
 
